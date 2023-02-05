@@ -25,4 +25,4 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
  
 ## 📈 Current Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev&" alt="palakxdev" />![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=dracula)</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev&" alt="palakxdev" />[Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=dracula)</p>

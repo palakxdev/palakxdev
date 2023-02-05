@@ -27,13 +27,3 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev&theme=highcontrast" alt="palakxdev" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&locale=en&theme=highcontrast" alt="palakxdev" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakxdev&langs_count=8)](https://github.com/palakxdev/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>

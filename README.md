@@ -25,5 +25,5 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
  
 ## 📈 Current Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev&theme=highcontrast" alt="palakxdev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev" alt="palakxdev" /></p>
 

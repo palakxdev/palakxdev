@@ -1,7 +1,10 @@
 # Hi there 👋, I'm Palak
-![](https://drive.google.com/uc?export=view&id=1KRS0ij7Kkv-t3B7Vbf4nuOv7BA6U5sZy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palakxdev&label=Profile%20views&color=0e75b6&style=flat" alt="palakxdev" /> </p>
+
+![](https://drive.google.com/uc?export=view&id=1KRS0ij7Kkv-t3B7Vbf4nuOv7BA6U5sZy)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palakxdev" alt="palakxdev" /></a> </p>
 
 Experienced Front-End Developer with a passion for creating dynamic and visually appealing websites. Proficient in HTML, CSS (Bootstrap, Tailwind CSS, DaisyUI), JavaScript, React, Node.js, Express.js, and MongoDB. Aspiring to full-stack development and building scalable applications. Constantly exploring new technologies and design trends to deliver innovative and impactful solutions. Seeking new challenges to further enhance my skills and deliver exceptional results.
 

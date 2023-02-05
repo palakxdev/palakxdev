@@ -25,22 +25,7 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
  
 ## 📈 Current Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev&" alt="palakxdev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakxdev&theme=highcontrast" alt="palakxdev" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&locale=en&theme=highcontrast" alt="palakxdev" /></p>
 
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=dark)
-
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=merko)
- 
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=gruvbox)
-  
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=tokyonight)
-   
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=onedark)
-    
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=cobalt)
-     
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=synthwave)
-      
-![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=highcontrast)

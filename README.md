@@ -33,8 +33,6 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
 
 ## 🔝 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palakxdev&langs_count=8)](https://github.com/palakxdev/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakxdev&langs_count=8" alt="palakxdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakxdev&langs_count=8&theme=highcontrast" alt="palakxdev" /></p>
 
 

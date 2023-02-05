@@ -10,3 +10,7 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
 ### 👯 I’m looking - To collaborate on open source projects.
 ### 🤔 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I once solved a Rubik's cube in under a minute while blindfolded!
+
+## 💻 Expertise as a web programmer:
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

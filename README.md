@@ -29,4 +29,4 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&locale=en&theme=highcontrast" alt="palakxdev" /></p>
 
- ![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=synthwave)
+ ![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=palakxdev&show_icons=true&theme=radical)

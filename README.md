@@ -40,4 +40,8 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakxdev&langs_count=8&theme=highcontrast" alt="palakxdev" /> </p>
 
+## 🔗 Links: Reach me out
 
+<p align="left">
+<a href="https://stackoverflow.com/users/20894866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20894866" height="30" width="40" /></a>
+</p>

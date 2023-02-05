@@ -5,11 +5,11 @@ Experienced Front-End Developer with a passion for creating dynamic and visually
 
 ## 👀 Current overview
 
-### 🔭 I’m working - on [Fiverr](https://www.fiverr.com/palak_wpseo)
-### 🌱 I’m - learning Redux 
-### 👯 I’m looking - To collaborate on open source projects.
-### 🤔 I’m trying - To help people learn web development.
-### ⚡ Fun fact - I once solved a Rubik's cube in under a minute while blindfolded!
+#### 🔭 I’m working - on [Fiverr](https://www.fiverr.com/palak_wpseo)
+#### 🌱 I’m - learning Redux 
+#### 👯 I’m looking - To collaborate on open source projects.
+#### 🤔 I’m trying - To help people learn web development.
+#### ⚡ Fun fact - I once solved a Rubik's cube in under a minute while blindfolded!
 
 
 ## 🛠 Expertise as a web programmer:

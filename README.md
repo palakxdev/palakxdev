@@ -3,9 +3,10 @@
 
 Experienced Front-End Developer with a passion for creating dynamic and visually appealing websites. Proficient in HTML, CSS (Bootstrap, Tailwind CSS, DaisyUI), JavaScript, React, Node.js, Express.js, and MongoDB. Aspiring to full-stack development and building scalable applications. Constantly exploring new technologies and design trends to deliver innovative and impactful solutions. Seeking new challenges to further enhance my skills and deliver exceptional results.
 
-### 👀 Current overview
-- 🔭 I’m working - on [Fiverr](https://www.fiverr.com/palak_wpseo)
-- 🌱 I’m - learning Redux 
-- 👯 I’m looking - To collaborate on open source projects.
-- 🤔 I’m trying - To help people learn web development.
-- ⚡ Fun fact - I once solved a Rubik's cube in under a minute while blindfolded!
+## 👀 Current overview
+
+### 🔭 I’m working - on [Fiverr](https://www.fiverr.com/palak_wpseo)
+### 🌱 I’m - learning Redux 
+### 👯 I’m looking - To collaborate on open source projects.
+### 🤔 I’m trying - To help people learn web development.
+### ⚡ Fun fact - I once solved a Rubik's cube in under a minute while blindfolded!
